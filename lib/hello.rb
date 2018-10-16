@@ -12,4 +12,3 @@ hello_t(["Timm", "Tom", "Jim"]) do |name|
     puts "Hi, #{name}"
   end
 end
-
